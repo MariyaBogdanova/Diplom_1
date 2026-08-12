@@ -1,0 +1,7 @@
+target/classes/
+target/test-classes/
+target/maven-status/
+target/maven-archiver/
+target/surefire-reports/
+.idea/
+*.class
